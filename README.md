@@ -38,4 +38,4 @@ make
   * > flags include -d, -l
   * history
   * commnads separated by & operator for background processes
-* commands seapreated by ;
+* commands separated by ;
