@@ -6,7 +6,7 @@ C-Shell is a user-defined interactive shell written in C that works similar to t
 
 ## Running the Shell
 
-    1. run `make` in the extracted directory ModuShell
+    1. run `make` in the extracted directory 'C Shell Project'
     2. run `./a.out`
 
 ## Commands emulated :
