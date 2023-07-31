@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "utsname.h": "c",
+        "headers.h": "c",
+        "prompt.h": "c"
+    }
+}

@@ -1,9 +1,5 @@
 # OSN : LINUX shell implementation in C
 
-## Overview
-
-C-Shell is a user-defined interactive shell written in C that works similar to the original shell and it can execeute many of the linux shell commands.The semicolon seperated commands,input output redirections,piping,signal handling are also supported.The shell can also create and manage new processes.Builtin commands like cd,ls,echo,pwd,history are implemented and it also supports running of background and foreground processes.
-
 ## Running the Shell
 
     1. run `make` in the extracted directory 2021101012_Assignment2

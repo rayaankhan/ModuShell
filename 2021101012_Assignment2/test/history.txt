@@ -1,0 +1,42 @@
+sleep 3 &
+
+sleep 3 & sleep 4 &
+
+sleep 3 & sleep 4
+
+sleep 3& sleep 4&
+
+exit
+
+sleep  3 & sleep 2
+
+exig
+
+exit
+
+sleep 3 & sleep 2 & sleep 1&
+
+exit
+
+sleep 3 & sleep 2 & sleep 1&
+
+exit
+
+cd ..
+
+cd -
+
+cd test
+
+vim &
+
+nano &
+
+echo hi ; cd ..
+
+sleep 5 & echo hello
+
+ls -a -l . ;cd test
+
+cd
+
